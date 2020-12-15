@@ -4,8 +4,17 @@
 Este es el proyecto final de la materia de **Programación y Métodos Numéricos** en la _UABC_. Contiene archivos de las prácticas de Laboratorio.
 
 * [Practica 1: Introducción al entorno y variables de programación en el lenguaje C](https://github.com/florjordan/Proyecto_PyMN_2020-2/tree/main/Practica%201)
+   [Volumen de una esfera](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%201/Volumen%20esfera.cpp)
+   [Fuerza de atracción de una persona](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%201/Fuerza%20de%20atracci%C3%B3n.cpp)
+   [Índice de masa corporal (IMC)](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%201/IMC.cpp)
+   
 
 * [Practica 2: Estructuras de control condicionales simples y múltiples](https://github.com/florjordan/Proyecto_PyMN_2020-2/tree/main/Practica%202)
+   [Número par e impar]()
+   [Programa de edad](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%202/2.cpp)
+   [Ecuación cuadratica](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%202/3.cpp)
+   [Condicionales y operadores lógicos](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%202/5.cpp)
+   [Condicionales múltiples](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%202/6.cpp)
 
 * [Practica 3: Estructuras repetitivas](https://github.com/florjordan/Proyecto_PyMN_2020-2/tree/main/Practica%203)
 
