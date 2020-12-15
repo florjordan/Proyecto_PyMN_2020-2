@@ -1,5 +1,5 @@
 # Proyecto_PyMN_2020-2
-# Universidad Autónoma de Baja California#
+# Universidad Autónoma de Baja California
 
 Este es el proyecto final de la materia de Programación y Métodos Numéricos en la UABC. Contiene archivos de las prácticas de Laboratorio.
 
@@ -14,6 +14,6 @@ Este es el proyecto final de la materia de Programación y Métodos Numéricos e
 * [Jacobi](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%2011/Jacobi.cpp)
 * [Gaus Seidel](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%2011/GaussSeidel.cpp)
 
-Gracias por leerme.
+Gracias por leerme. /n
 Pudes verme en:
 * [Instagram](https://www.instagram.com/flor.jordan/)
