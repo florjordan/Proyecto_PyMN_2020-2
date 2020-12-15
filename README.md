@@ -1,7 +1,8 @@
 # Proyecto_PyMN_2020-2
 # Universidad Autónoma de Baja California
 
-Este es el proyecto final de la materia de **Programación y Métodos Numéricos** en la _UABC_. Contiene archivos de las prácticas de Laboratorio.
+Este es el proyecto final de la materia de **Programación y Métodos Numéricos** en la _UABC_. Contiene archivos de las prácticas de Laboratorio que se llevaron a cabo este semestre de manera virtual.
+
 
   **Practica 1: Introducción al entorno y variables de programación en el lenguaje C**
    * [Volumen de una esfera](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%201/Volumen%20esfera.cpp)
