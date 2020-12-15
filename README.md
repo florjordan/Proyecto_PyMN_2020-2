@@ -25,6 +25,7 @@ Este es el proyecto final de la materia de **Programación y Métodos Numéricos
     * [Gaus Seidel](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%2011/GaussSeidel.cpp)
 
 Mi nombre es *Flor Denisse Jordán Rodríguez*, soy aspirante a estudiar Ingeniería en Computación.
+
 Gracias por leerme. 
 
 Pudes verme en:
