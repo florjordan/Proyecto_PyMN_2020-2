@@ -47,5 +47,5 @@ Mi nombre es *Flor Denisse Jordán Rodríguez*, soy aspirante a estudiar **Ingen
 
 Gracias por leerme. 
 
-Pudes verme en:
+Puedes encontrarme en:
 * [Instagram](https://www.instagram.com/flor.jordan/)
