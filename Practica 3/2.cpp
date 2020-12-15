@@ -1,21 +1,40 @@
 #include <stdio.h>
-#include<conio.h>
 	
 int main(){
-	
 	int a, b, c, d;
+	int q, w, e;
+	int g, h;
 
-	
 	printf("Introduce un numero de cuatro digitos diferentes \n");
-	scanf("%s",&string);
+	scanf("%d",&a);
+	
+	q = 1;
+	w = 0;
+	e = 0;
 	
 	do{
+		b = a%10;
+		a = (a-b)/10;
+		c = a%10;
+		if(c!=b){
+			a = (a-c)/10;
+			g = a%10;
+				if(g!=c && g!=b && g!=a)
+				q=q+1;
+				else{
+					w = w+1;
+				}
+		}
+		e = e+1;
+		while(a!=0);
 		
+		if(w!=0){
+			printf("Codigo no valido");
+		}
 		
-		printf("Codigo valido");
-	}while(k<9999);
-	
-	printf("Codigo no valido");
-	
-	return 0;
+		else if (q==2){
+			printf("Codigo no valido");
+		}
+		
+		return0;
 }
