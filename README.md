@@ -24,6 +24,7 @@ Este es el proyecto final de la materia de **Programación y Métodos Numéricos
     * [Jacobi](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%2011/Jacobi.cpp)
     * [Gaus Seidel](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%2011/GaussSeidel.cpp)
 
+Mi nombre es *Flor Denisse Jordán Rodríguez* y soy proxima estudiante de Ingeniería en Computación.
 Gracias por leerme. 
 
 Pudes verme en:
