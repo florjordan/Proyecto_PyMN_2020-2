@@ -9,7 +9,7 @@ Este es el proyecto final de la materia de **Programación y Métodos Numéricos
 
 * [Practica 3](https://github.com/florjordan/Proyecto_PyMN_2020-2/tree/main/Practica%203)
 
-* [Practica 4](https://github.com/florjordan/Proyecto_PyMN_2020-2/tree/main/Practica%204)
+* [Practica 4](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%204/4-flor.cpp)
 
   **Practica 5**
     * [Bisección](https://github.com/florjordan/Proyecto_PyMN_2020-2/blob/main/Practica%205/Bisecci%C3%B3n.cpp)
